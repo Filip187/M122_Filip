@@ -38,3 +38,5 @@
 ### für mehrere Kryptowährungen funktionieren
 
 
+
+[](/M122_Vorlage_Anforderung_V1.0.docx)
