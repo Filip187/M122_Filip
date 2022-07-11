@@ -1,0 +1,2 @@
+# Was macht mein Script
+### Mein Script dient dazu, einem interessierten Traider, den neusten Stand von einer Kryptowährung anzuzeigen. Der nutzer bekommt jeden Morgen um 8 Uhr eine Mail mit dem Wert seiner gewünschten Kryptowährung, wenn die Währung über oder unter einem gewissen Wert ist. 
